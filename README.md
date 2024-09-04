@@ -1,8 +1,25 @@
-# React + Vite
+# React Jobs
+Este es un proyecto de React que facilita la gestión y postulación de trabajos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Requisitos Previos
+Antes de comenzar, asegúrate de tener los siguientes programas instalados:
 
-Currently, two official plugins are available:
+- [Node.js](https://nodejs.org/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación de dependecias necesarias
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npm install react-icons
+npm install react-router-dom
+npm install json-server
+npm install react-spinners
+npm install react-toastify
+
+## Iniciar el servidor de desarrollo
+npm run dev
+
+## Ejecutar el servidor JSON
+npm run server
+
+
+
